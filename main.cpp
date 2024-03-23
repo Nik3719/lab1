@@ -22,7 +22,7 @@ int main(){
     }
     case 2:
     {
-        cout<<check_polindrom(str);
+        cout<<check_palindrome(str);
         break;
     }
     
