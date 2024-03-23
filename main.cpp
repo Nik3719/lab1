@@ -1,7 +1,7 @@
 #include<string>
 #include<iostream>
 #include"delSym.h"
-#include"check_polindrom.h"
+#include"check_palindrome.h"
 
 using namespace std;
 
