@@ -1,7 +1,7 @@
 #include<string>
 #include<iostream>
 #include"delSym.h"
-#include"check_polindrom.h"
+
 
 
 using namespace std;
@@ -23,7 +23,7 @@ int main(){
     }
     case 2:
     {
-        cout<<check_polindrom(str);
+       
         break;
     }
     
