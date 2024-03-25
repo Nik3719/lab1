@@ -1,5 +1,5 @@
 #include"delSym.h"
-
+/*any comment*/
 void delSym(string &Str) {
 	string newStr;
 	for (char x : Str) {
